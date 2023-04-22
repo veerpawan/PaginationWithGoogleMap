@@ -1,0 +1,65 @@
+[
+  {
+    "geometry": {
+      "location": {
+        "lat": 28.6914261,
+        "lng": 77.0668812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.69279542989273,
+          "lng": 77.06816882989271
+        },
+        "southwest": {
+          "lat": 28.69009577010728,
+          "lng": 77.06546917010728
+        }
+      }
+    },
+    "name": "Restaurant",
+    "rating": 4.2,
+    "vicinity": "M3R8+HPH, Sultanpuri, Sani Bazar Rd, Police chowki, New Delhi"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 28.6708243,
+        "lng": 77.0671703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.67217922989272,
+          "lng": 77.06852032989272
+        },
+        "southwest": {
+          "lat": 28.66947957010727,
+          "lng": 77.06582067010727
+        }
+      }
+    },
+    "name": "Neighbourfoodkart",
+    "rating": 4.3,
+    "vicinity": "F - 20/A, Laxmi Park Rd, Block A, Vandana Vihar, Nangloi, New Delhi"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 28.6664109,
+        "lng": 77.0616706
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 28.66777017989272,
+          "lng": 77.06292667989273
+        },
+        "southwest": {
+          "lat": 28.66507052010728,
+          "lng": 77.06022702010729
+        }
+      }
+    },
+    "name": "Yomlets Delicious Food Cafe",
+    "rating": 4.8,
+    "vicinity": "M386+HM8, Block C, Laxmi Park Colony, Mundka, New Delhi"
+  }
+]
